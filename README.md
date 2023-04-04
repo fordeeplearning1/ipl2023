@@ -1,3 +1,14 @@
-This script captures the prediction of latest IPL matches from crictracker.com. You need to install BeautifulSoup.
+# Bailout4
 
-`pip install BeautifulSoup
+This script captures the prediction of latest season IPL matches(23) from crictracker.com.
+You need to install BeautifulSoup
+
+```pip install BeautifulSoup```
+
+then
+
+```python run Webscraper.py```
+
+disconnect the ... if you get this error
+
+```Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network```
