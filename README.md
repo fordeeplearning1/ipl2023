@@ -22,3 +22,5 @@ To get the **match winner** and **toss winner** predictions, run the below scrip
 ```python winner_toss_prediction.py```
 
 select two teams by hitting space against the team names and then press enter
+
+![image.png](./image.png)
