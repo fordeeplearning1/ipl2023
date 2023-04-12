@@ -13,6 +13,11 @@ then
 
 ```python Webscraper.py```
 
+you will get an output similar to this
+
+![image-1.png](./image-1.png)
+![image-2.png](./image-2.png)
+
 disconnect the ... if you get this error
 
 ```Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network```
