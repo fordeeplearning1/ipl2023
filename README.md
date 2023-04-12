@@ -1,4 +1,4 @@
-# Bailout4
+# IPL2023
 
 This script captures the prediction of latest season IPL matches(23) from crictracker.com & cricketbetting.net.
 You need to install BeautifulSoup, h2o, PyInquirer
