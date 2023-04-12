@@ -3,6 +3,10 @@
 This script captures the prediction of latest season IPL matches(23) from crictracker.com & cricketbetting.net.
 You need to install BeautifulSoup, h2o, PyInquirer
 
+```git clone https://gitlabce.tools.aws.vodafone.com/ml_coe/bailout4.git```
+
+```cd <project path>```
+
 ```pip install BeautifulSoup h2o PyInquirer```
 
 then
@@ -13,7 +17,7 @@ disconnect the ... if you get this error
 
 ```Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network```
 
-To get the match winner and toss winner predictions, run the below script
+To get the **match winner** and **toss winner** predictions, run the below script
 
 ```python winner_toss_prediction.py```
 
